@@ -12,9 +12,9 @@ This repository contains a Power BI project focused on analyzing eCommerce sales
 ## Repository Contents
 
 - **Data/**: Raw CSV files containing eCommerce orders and details.
-- **PBIX/**: The Power BI dashboard file (`Ecommerce_Sales_Dashboard.pbix`).
+- **PBIX/**: The Power BI dashboard file .
 - **Exports/**: PDF and PowerPoint exports of the dashboard for quick viewing.
-- **Images/**: Screenshots of the dashboard.
-- **Scripts/**: SQL or DAX scripts used for data transformation (if applicable).
+
+
 
 Explore the dashboard, manipulate the data, and gain insights into eCommerce sales trends and customer behavior.
